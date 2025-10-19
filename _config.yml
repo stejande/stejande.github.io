@@ -1,7 +1,7 @@
 # Site settings
 title: Stejande Blog
 SEOTitle: 死蝶教典的博客 | Stejande Blog
-header-img: img/home-bg.jpg
+header-img: img/home-bg.JPG
 email: zqy18914988689@163.com
 description: "这里是死蝶教典的个人博客 | 作业堆放处"
 keyword: "计算机专业课 杂谈 日记 报错 安装"
@@ -75,7 +75,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "右边小简介 <br> 换行"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://github.com/Huxpro.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -88,15 +88,15 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-# Friends
-friends:
-  [
-    { title: "链接 1", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
-  ]
+# # Friends
+# friends:
+#   [
+#     { title: "链接 1", href: "http://mida.re/" },
+#     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
+#     { title: "Kun Qian", href: "http://kunq.me" },
+#     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
+#     { title: "SmdCn", href: "http://blog.smdcn.net" },
+#     { title: "JiyinYiyong", href: "http://tiye.me/" },
+#     { title: "DHong Say", href: "http://dhong.co" },
+#     { title: "尹峰以为", href: "http://ingf.github.io/" },
+#   ]
