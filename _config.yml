@@ -4,8 +4,8 @@ SEOTitle: 死蝶教典的博客 | Stejande Blog
 header-img: img/home-bg.JPG
 email: zqy18914988689@163.com
 description: "这里是死蝶教典的个人博客 | 作业堆放处"
-keyword: "计算机专业课 杂谈 日记 报错 安装"
-url: "https://huangxuan.me" # your host, for absolute URL
+keyword: "死蝶教典,stejande blog,计算机科学与技术"
+url: "https://stejande.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: stejande
+zhihu_username: stejande
+github_username: stejande
+twitter_username: stejande
+#facebook_username:  huxpro填写社交账号主页链接
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -79,7 +79,7 @@ sidebar-avatar: /img/stejande.png     # use absolute URL, seeing it's used in bo
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0 # A tag will be featured if the size of it is more than this condition value
 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
