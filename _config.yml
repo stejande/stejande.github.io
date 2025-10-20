@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: stejande
 
 # Netease settings
 netease_comment: false
@@ -74,7 +74,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "努力生活中。 <br> 换行"
+sidebar-about-description: "努力生活中。 <br> ----学 习----"
 sidebar-avatar: /img/stejande.png     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
